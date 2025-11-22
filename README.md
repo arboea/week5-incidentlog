@@ -1,0 +1,1 @@
+In the event of an AI failure, it is leadership's responsibility to ensure that workers do not panic and is a sense of calm confidence. During a time of crisis, such as this leaders should provide an example for others to strive for. 
