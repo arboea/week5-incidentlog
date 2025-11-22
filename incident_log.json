@@ -1,0 +1,927 @@
+[
+  {
+    "id": "dd950dfd-cda7-45bc-9048-56c33d0bac28",
+    "timestamp": "2025-11-20T18:44:00.093444",
+    "location": "Rooftop",
+    "description": "Forklift collided with pallet and knocked over materials; water on floor from leaking pipe",
+    "witness_count": 0,
+    "injured": false,
+    "predicted_severity": "minor",
+    "predicted_proba": {
+      "critical": 0.2807367795287635,
+      "major": 0.05693340905845344,
+      "minor": 0.662329811412783
+    },
+    "explanation": [
+      {
+        "feature": "and",
+        "weight": -0.01115186913452094
+      },
+      {
+        "feature": "with",
+        "weight": -0.008887508550420102
+      },
+      {
+        "feature": "collided",
+        "weight": -0.008874481708252212
+      },
+      {
+        "feature": "pallet",
+        "weight": -0.008856362451166043
+      },
+      {
+        "feature": "over",
+        "weight": -0.008459181270001807
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T18:44:00.093444: classified as minor. Key contributing phrases: and, with, collided, pallet, over."
+  },
+  {
+    "id": "6e348519-8445-48c5-a5e5-25b8816b23fe",
+    "timestamp": "2025-11-20T21:19:00.093444",
+    "location": "Rooftop",
+    "description": "Worker slipped on wet floor and fell; water on floor from leaking pipe",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.4694651554902675,
+      "major": 0.06616810679013571,
+      "minor": 0.4643667377195969
+    },
+    "explanation": [
+      {
+        "feature": "slipped",
+        "weight": -0.01223784438724304
+      },
+      {
+        "feature": "and",
+        "weight": -0.012005250434593976
+      },
+      {
+        "feature": "wet",
+        "weight": -0.011502509729094992
+      },
+      {
+        "feature": "on",
+        "weight": -0.009451383205435497
+      },
+      {
+        "feature": "Worker",
+        "weight": -0.007928037336987003
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T21:19:00.093444: classified as critical. Key contributing phrases: slipped, and, wet, on, Worker."
+  },
+  {
+    "id": "92d407bb-427d-4d86-a9d1-35ab7add8d49",
+    "timestamp": "2025-11-20T22:00:00.093444",
+    "location": "Assembly Line 1",
+    "description": "Fire alarm triggered by overheated motor",
+    "witness_count": 3,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.8025646403376866,
+      "major": 0.06971790131444987,
+      "minor": 0.12771745834786352
+    },
+    "explanation": [
+      {
+        "feature": "triggered",
+        "weight": -0.0075065649972099625
+      },
+      {
+        "feature": "overheated",
+        "weight": -0.00732102924014939
+      },
+      {
+        "feature": "alarm",
+        "weight": -0.007231758736911576
+      },
+      {
+        "feature": "by",
+        "weight": -0.0063519363505629
+      },
+      {
+        "feature": "Fire",
+        "weight": -0.005186784670441396
+      }
+    ],
+    "summary": "Incident at Assembly Line 1 on 2025-11-20T22:00:00.093444: classified as critical. Key contributing phrases: triggered, overheated, alarm, by, Fire."
+  },
+  {
+    "id": "7fb72bb8-a1ad-4b59-8641-778a92d30a93",
+    "timestamp": "2025-11-20T09:15:00.093444",
+    "location": "Warehouse A",
+    "description": "Employee cut hand while operating box cutter; water on floor from leaking pipe; employee transported to hospital",
+    "witness_count": 2,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.674910822835218,
+      "major": 0.21719730807285245,
+      "minor": 0.10789186909192955
+    },
+    "explanation": [
+      {
+        "feature": "to",
+        "weight": -0.07490099270415002
+      },
+      {
+        "feature": "transported",
+        "weight": -0.06967793794168893
+      },
+      {
+        "feature": "while",
+        "weight": 0.057835294690652614
+      },
+      {
+        "feature": "cut",
+        "weight": 0.05699038502887602
+      },
+      {
+        "feature": "box",
+        "weight": 0.05624580239961523
+      }
+    ],
+    "summary": "Incident at Warehouse A on 2025-11-20T09:15:00.093444: classified as critical. Key contributing phrases: to, transported, while, cut, box."
+  },
+  {
+    "id": "35bb461d-a3c9-4aea-8441-26c9b8e17fee",
+    "timestamp": "2025-11-20T17:58:00.093444",
+    "location": "Office Area",
+    "description": "Box fell from shelf hitting employee's foot; water on floor from leaking pipe; witnessed by multiple coworkers",
+    "witness_count": 0,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.4893240259174194,
+      "major": 0.3610222510589064,
+      "minor": 0.14965372302367416
+    },
+    "explanation": [
+      {
+        "feature": "foot",
+        "weight": 0.06979745898214679
+      },
+      {
+        "feature": "hitting",
+        "weight": 0.048992925867683446
+      },
+      {
+        "feature": "employee",
+        "weight": 0.04767850241957336
+      },
+      {
+        "feature": "Box",
+        "weight": 0.046207832091470204
+      },
+      {
+        "feature": "from",
+        "weight": 0.03206383123513638
+      }
+    ],
+    "summary": "Incident at Office Area on 2025-11-20T17:58:00.093444: classified as critical. Key contributing phrases: foot, hitting, employee, Box, from."
+  },
+  {
+    "id": "df05fcbb-a900-4fd0-acc4-156a9ca5b36e",
+    "timestamp": "2025-11-20T19:51:00.093444",
+    "location": "Warehouse A",
+    "description": "Box fell from shelf hitting employee's foot",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.5036545192796377,
+      "major": 0.4172902070805571,
+      "minor": 0.07905527363980532
+    },
+    "explanation": [
+      {
+        "feature": "Box",
+        "weight": 0.06681430212602035
+      },
+      {
+        "feature": "employee",
+        "weight": 0.05392247509106751
+      },
+      {
+        "feature": "hitting",
+        "weight": 0.05147242997229999
+      },
+      {
+        "feature": "from",
+        "weight": 0.03890276290537364
+      },
+      {
+        "feature": "foot",
+        "weight": 0.037883222862960086
+      }
+    ],
+    "summary": "Incident at Warehouse A on 2025-11-20T19:51:00.093444: classified as critical. Key contributing phrases: Box, employee, hitting, from, foot."
+  },
+  {
+    "id": "216af482-124a-49bf-a6a4-7bb4a3747a55",
+    "timestamp": "2025-11-20T06:45:00.093444",
+    "location": "Loading Dock",
+    "description": "Forklift collided with pallet and knocked over materials",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "minor",
+    "predicted_proba": {
+      "critical": 0.29727906907251317,
+      "major": 0.05171233784442266,
+      "minor": 0.6510085930830641
+    },
+    "explanation": [
+      {
+        "feature": "and",
+        "weight": -0.010340916812615663
+      },
+      {
+        "feature": "with",
+        "weight": -0.007807233211898245
+      },
+      {
+        "feature": "collided",
+        "weight": -0.007693463423033992
+      },
+      {
+        "feature": "knocked",
+        "weight": -0.007553006903144715
+      },
+      {
+        "feature": "pallet",
+        "weight": -0.007396240192499342
+      }
+    ],
+    "summary": "Incident at Loading Dock on 2025-11-20T06:45:00.093444: classified as minor. Key contributing phrases: and, with, collided, knocked, pallet."
+  },
+  {
+    "id": "3726da71-09c0-4abf-8b2b-1f515899bc2c",
+    "timestamp": "2025-11-20T19:47:00.093444",
+    "location": "Rooftop",
+    "description": "Chemical spill near storage shelf",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.9223342593995999,
+      "major": 0.032529944741190545,
+      "minor": 0.045135795859209564
+    },
+    "explanation": [
+      {
+        "feature": "storage",
+        "weight": -0.018492350031965903
+      },
+      {
+        "feature": "spill",
+        "weight": -0.017917662701876204
+      },
+      {
+        "feature": "near",
+        "weight": -0.017324381745735883
+      },
+      {
+        "feature": "Chemical",
+        "weight": -0.013154121639757104
+      },
+      {
+        "feature": "shelf",
+        "weight": -0.002771041469188889
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T19:47:00.093444: classified as critical. Key contributing phrases: storage, spill, near, Chemical, shelf."
+  },
+  {
+    "id": "d716bdd0-974d-49ad-8a4e-fb85e050139b",
+    "timestamp": "2025-11-20T00:23:00.093444",
+    "location": "Rooftop",
+    "description": "Chemical spill near storage shelf; water on floor from leaking pipe",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.8642480359404352,
+      "major": 0.04802065822986946,
+      "minor": 0.08773130582969553
+    },
+    "explanation": [
+      {
+        "feature": "storage",
+        "weight": -0.018886436196522825
+      },
+      {
+        "feature": "spill",
+        "weight": -0.01862797673270522
+      },
+      {
+        "feature": "near",
+        "weight": -0.018548808950835688
+      },
+      {
+        "feature": "Chemical",
+        "weight": -0.013548579005069852
+      },
+      {
+        "feature": "from",
+        "weight": 0.009199083463133757
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T00:23:00.093444: classified as critical. Key contributing phrases: storage, spill, near, Chemical, from."
+  },
+  {
+    "id": "41541d7a-4175-40f9-80e9-269d6e35a37c",
+    "timestamp": "2025-11-20T13:05:00.093444",
+    "location": "Warehouse A",
+    "description": "Worker slipped on wet floor and fell; water on floor from leaking pipe; witnessed by multiple coworkers",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.47954392891270714,
+      "major": 0.0728452041244112,
+      "minor": 0.4476108669628817
+    },
+    "explanation": [
+      {
+        "feature": "wet",
+        "weight": -0.011859603080020726
+      },
+      {
+        "feature": "and",
+        "weight": -0.011742627088131776
+      },
+      {
+        "feature": "slipped",
+        "weight": -0.011624504053213802
+      },
+      {
+        "feature": "pipe",
+        "weight": 0.009060605200201115
+      },
+      {
+        "feature": "on",
+        "weight": -0.008948917428660531
+      }
+    ],
+    "summary": "Incident at Warehouse A on 2025-11-20T13:05:00.093444: classified as critical. Key contributing phrases: wet, and, slipped, pipe, on."
+  },
+  {
+    "id": "a2d02c03-2b2e-4e6d-bd72-49caa82cff09",
+    "timestamp": "2025-11-20T08:43:00.093444",
+    "location": "Office Area",
+    "description": "Box fell from shelf hitting employee's foot",
+    "witness_count": 1,
+    "injured": true,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.5036545192796377,
+      "major": 0.4172902070805571,
+      "minor": 0.07905527363980532
+    },
+    "explanation": [
+      {
+        "feature": "Box",
+        "weight": 0.06554743260014428
+      },
+      {
+        "feature": "employee",
+        "weight": 0.05515422879883931
+      },
+      {
+        "feature": "hitting",
+        "weight": 0.051561190662036654
+      },
+      {
+        "feature": "from",
+        "weight": 0.03939247003190464
+      },
+      {
+        "feature": "foot",
+        "weight": 0.03888276403347876
+      }
+    ],
+    "summary": "Incident at Office Area on 2025-11-20T08:43:00.093444: classified as critical. Key contributing phrases: Box, employee, hitting, from, foot."
+  },
+  {
+    "id": "63ff422b-75d9-4a5d-b7eb-77782211554d",
+    "timestamp": "2025-11-20T07:36:00.093444",
+    "location": "Rooftop",
+    "description": "Chemical spill near storage shelf",
+    "witness_count": 3,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.9223342593995999,
+      "major": 0.032529944741190545,
+      "minor": 0.045135795859209564
+    },
+    "explanation": [
+      {
+        "feature": "storage",
+        "weight": -0.018699618688051516
+      },
+      {
+        "feature": "spill",
+        "weight": -0.017930511328318174
+      },
+      {
+        "feature": "near",
+        "weight": -0.01757289379062327
+      },
+      {
+        "feature": "Chemical",
+        "weight": -0.013206494824867075
+      },
+      {
+        "feature": "shelf",
+        "weight": -0.0026226970169132557
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T07:36:00.093444: classified as critical. Key contributing phrases: storage, spill, near, Chemical, shelf."
+  },
+  {
+    "id": "fc6c4c1e-59cf-4e02-8353-ec2d67e59ede",
+    "timestamp": "2025-11-20T18:29:00.093444",
+    "location": "Assembly Line 1",
+    "description": "Employee cut hand while operating box cutter; witnessed by multiple coworkers; employee transported to hospital",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.7095559520037784,
+      "major": 0.1982597880784742,
+      "minor": 0.09218425991774737
+    },
+    "explanation": [
+      {
+        "feature": "transported",
+        "weight": -0.0709689418536828
+      },
+      {
+        "feature": "to",
+        "weight": -0.06799729832982947
+      },
+      {
+        "feature": "box",
+        "weight": 0.055271989238320704
+      },
+      {
+        "feature": "operating",
+        "weight": 0.05509614187050176
+      },
+      {
+        "feature": "cut",
+        "weight": 0.05410389173777389
+      }
+    ],
+    "summary": "Incident at Assembly Line 1 on 2025-11-20T18:29:00.093444: classified as critical. Key contributing phrases: transported, to, box, operating, cut."
+  },
+  {
+    "id": "f96b9e29-96a9-440b-9c4f-65b9585f64da",
+    "timestamp": "2025-11-20T06:15:00.093444",
+    "location": "Rooftop",
+    "description": "Worker struck head on low beam",
+    "witness_count": 2,
+    "injured": false,
+    "predicted_severity": "minor",
+    "predicted_proba": {
+      "critical": 0.2587019419673802,
+      "major": 0.07958246445666259,
+      "minor": 0.6617155935759572
+    },
+    "explanation": [
+      {
+        "feature": "Worker",
+        "weight": -0.00945548418534725
+      },
+      {
+        "feature": "on",
+        "weight": -0.007793591409841671
+      },
+      {
+        "feature": "head",
+        "weight": -0.005516229678408511
+      },
+      {
+        "feature": "low",
+        "weight": -0.005423283589121174
+      },
+      {
+        "feature": "struck",
+        "weight": -0.005293803019174302
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T06:15:00.093444: classified as minor. Key contributing phrases: Worker, on, head, low, struck."
+  },
+  {
+    "id": "1cb805e7-56a3-492e-abf0-a853d2f352e8",
+    "timestamp": "2025-11-20T13:07:00.093444",
+    "location": "Loading Dock",
+    "description": "Worker slipped on wet floor and fell; witnessed by multiple coworkers",
+    "witness_count": 0,
+    "injured": true,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.6222489100718351,
+      "major": 0.05799293755293183,
+      "minor": 0.31975815237523303
+    },
+    "explanation": [
+      {
+        "feature": "slipped",
+        "weight": -0.01012377574642511
+      },
+      {
+        "feature": "and",
+        "weight": -0.009931645012892874
+      },
+      {
+        "feature": "wet",
+        "weight": -0.009331298944427042
+      },
+      {
+        "feature": "floor",
+        "weight": -0.006307975025700495
+      },
+      {
+        "feature": "Worker",
+        "weight": -0.006207475943005652
+      }
+    ],
+    "summary": "Incident at Loading Dock on 2025-11-20T13:07:00.093444: classified as critical. Key contributing phrases: slipped, and, wet, floor, Worker."
+  },
+  {
+    "id": "5082a693-e357-4a52-8bb3-831e0954c96a",
+    "timestamp": "2025-11-20T13:14:00.093444",
+    "location": "Rooftop",
+    "description": "Employee cut hand while operating box cutter",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "major",
+    "predicted_proba": {
+      "critical": 0.3050072701370322,
+      "major": 0.6076492155300178,
+      "minor": 0.08734351433294978
+    },
+    "explanation": [
+      {
+        "feature": "box",
+        "weight": 0.08795125521400314
+      },
+      {
+        "feature": "cut",
+        "weight": 0.07320909683967945
+      },
+      {
+        "feature": "hand",
+        "weight": 0.0719571417399367
+      },
+      {
+        "feature": "while",
+        "weight": 0.07194591197401705
+      },
+      {
+        "feature": "operating",
+        "weight": 0.07164469869211036
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T13:14:00.093444: classified as major. Key contributing phrases: box, cut, hand, while, operating."
+  },
+  {
+    "id": "f4028d63-3a3d-4ed8-b366-99e2b039c485",
+    "timestamp": "2025-11-20T01:26:00.093444",
+    "location": "Assembly Line 1",
+    "description": "Forklift collided with pallet and knocked over materials",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "minor",
+    "predicted_proba": {
+      "critical": 0.29727906907251317,
+      "major": 0.05171233784442266,
+      "minor": 0.6510085930830641
+    },
+    "explanation": [
+      {
+        "feature": "and",
+        "weight": -0.010529867801969186
+      },
+      {
+        "feature": "with",
+        "weight": -0.007710659430423609
+      },
+      {
+        "feature": "over",
+        "weight": -0.007657123895235895
+      },
+      {
+        "feature": "collided",
+        "weight": -0.007591275595425593
+      },
+      {
+        "feature": "pallet",
+        "weight": -0.007137427149142667
+      }
+    ],
+    "summary": "Incident at Assembly Line 1 on 2025-11-20T01:26:00.093444: classified as minor. Key contributing phrases: and, with, over, collided, pallet."
+  },
+  {
+    "id": "79e7bedb-5d63-4f74-8e71-342df55dbdbb",
+    "timestamp": "2025-11-20T22:12:00.093444",
+    "location": "Rooftop",
+    "description": "Employee cut hand while operating box cutter",
+    "witness_count": 2,
+    "injured": false,
+    "predicted_severity": "major",
+    "predicted_proba": {
+      "critical": 0.3050072701370322,
+      "major": 0.6076492155300178,
+      "minor": 0.08734351433294978
+    },
+    "explanation": [
+      {
+        "feature": "box",
+        "weight": 0.08867887215218334
+      },
+      {
+        "feature": "operating",
+        "weight": 0.07410610768034742
+      },
+      {
+        "feature": "cut",
+        "weight": 0.0738691239429409
+      },
+      {
+        "feature": "while",
+        "weight": 0.07184506791416101
+      },
+      {
+        "feature": "hand",
+        "weight": 0.07079273419979035
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T22:12:00.093444: classified as major. Key contributing phrases: box, operating, cut, while, hand."
+  },
+  {
+    "id": "ef65421c-a856-46cf-8445-fba0c203f92e",
+    "timestamp": "2025-11-20T11:44:00.093444",
+    "location": "Assembly Line 1",
+    "description": "Forklift collided with pallet and knocked over materials",
+    "witness_count": 0,
+    "injured": true,
+    "predicted_severity": "minor",
+    "predicted_proba": {
+      "critical": 0.29727906907251317,
+      "major": 0.05171233784442266,
+      "minor": 0.6510085930830641
+    },
+    "explanation": [
+      {
+        "feature": "and",
+        "weight": -0.010519818719775123
+      },
+      {
+        "feature": "over",
+        "weight": -0.007881734916017968
+      },
+      {
+        "feature": "with",
+        "weight": -0.007881228113069674
+      },
+      {
+        "feature": "collided",
+        "weight": -0.007558970265560926
+      },
+      {
+        "feature": "pallet",
+        "weight": -0.007530864361006495
+      }
+    ],
+    "summary": "Incident at Assembly Line 1 on 2025-11-20T11:44:00.093444: classified as minor. Key contributing phrases: and, over, with, collided, pallet."
+  },
+  {
+    "id": "90eff614-3c68-4d9b-9d31-eccc22305d74",
+    "timestamp": "2025-11-20T19:52:00.093444",
+    "location": "Rooftop",
+    "description": "Box fell from shelf hitting employee's foot; witnessed by multiple coworkers",
+    "witness_count": 1,
+    "injured": true,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.6248250114374333,
+      "major": 0.2747842291953648,
+      "minor": 0.10039075936720192
+    },
+    "explanation": [
+      {
+        "feature": "witnessed",
+        "weight": -0.05224733166196971
+      },
+      {
+        "feature": "hitting",
+        "weight": 0.048820419961788736
+      },
+      {
+        "feature": "Box",
+        "weight": 0.048595867391282854
+      },
+      {
+        "feature": "employee",
+        "weight": 0.04789496433433452
+      },
+      {
+        "feature": "from",
+        "weight": 0.03812775475696252
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T19:52:00.093444: classified as critical. Key contributing phrases: witnessed, hitting, Box, employee, from."
+  },
+  {
+    "id": "55c21258-fefa-4ff8-ae97-0475f158b9d9",
+    "timestamp": "2025-11-20T01:31:00.093444",
+    "location": "Office Area",
+    "description": "Ladder slipped during maintenance task; witnessed by multiple coworkers",
+    "witness_count": 1,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.46881034732547816,
+      "major": 0.07392362641244987,
+      "minor": 0.457266026262072
+    },
+    "explanation": [
+      {
+        "feature": "slipped",
+        "weight": -0.009868176703640761
+      },
+      {
+        "feature": "maintenance",
+        "weight": -0.0062839001847773595
+      },
+      {
+        "feature": "during",
+        "weight": -0.005969436155280128
+      },
+      {
+        "feature": "Ladder",
+        "weight": -0.0042527514621889025
+      },
+      {
+        "feature": "task",
+        "weight": -0.0029785776372374486
+      }
+    ],
+    "summary": "Incident at Office Area on 2025-11-20T01:31:00.093444: classified as critical. Key contributing phrases: slipped, maintenance, during, Ladder, task."
+  },
+  {
+    "id": "f91257cb-4057-40a3-9b2c-af24c34de21e",
+    "timestamp": "2025-11-20T09:29:00.093444",
+    "location": "Office Area",
+    "description": "Chemical spill near storage shelf",
+    "witness_count": 5,
+    "injured": false,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.9223342593995999,
+      "major": 0.032529944741190545,
+      "minor": 0.045135795859209564
+    },
+    "explanation": [
+      {
+        "feature": "storage",
+        "weight": -0.018456292157835733
+      },
+      {
+        "feature": "spill",
+        "weight": -0.01769411000059458
+      },
+      {
+        "feature": "near",
+        "weight": -0.01746063733965314
+      },
+      {
+        "feature": "Chemical",
+        "weight": -0.013237007202932532
+      },
+      {
+        "feature": "shelf",
+        "weight": -0.00288404561719434
+      }
+    ],
+    "summary": "Incident at Office Area on 2025-11-20T09:29:00.093444: classified as critical. Key contributing phrases: storage, spill, near, Chemical, shelf."
+  },
+  {
+    "id": "e79cf4c5-aa37-41b2-9ceb-e1710a587b72",
+    "timestamp": "2025-11-20T14:22:00.093444",
+    "location": "Rooftop",
+    "description": "Chemical spill near storage shelf; water on floor from leaking pipe",
+    "witness_count": 1,
+    "injured": true,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.8642480359404352,
+      "major": 0.04802065822986946,
+      "minor": 0.08773130582969553
+    },
+    "explanation": [
+      {
+        "feature": "spill",
+        "weight": -0.019277101300977713
+      },
+      {
+        "feature": "storage",
+        "weight": -0.019128942751669924
+      },
+      {
+        "feature": "near",
+        "weight": -0.01828449339742779
+      },
+      {
+        "feature": "Chemical",
+        "weight": -0.013578986147017354
+      },
+      {
+        "feature": "from",
+        "weight": 0.008918959674434753
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T14:22:00.093444: classified as critical. Key contributing phrases: spill, storage, near, Chemical, from."
+  },
+  {
+    "id": "b8ceac4a-6874-4911-a318-087301df4e0c",
+    "timestamp": "2025-11-20T19:48:00.093444",
+    "location": "Rooftop",
+    "description": "Worker slipped on wet floor and fell; water on floor from leaking pipe",
+    "witness_count": 1,
+    "injured": true,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.4694651554902675,
+      "major": 0.06616810679013571,
+      "minor": 0.4643667377195969
+    },
+    "explanation": [
+      {
+        "feature": "slipped",
+        "weight": -0.012021105048398758
+      },
+      {
+        "feature": "and",
+        "weight": -0.011771558293493226
+      },
+      {
+        "feature": "wet",
+        "weight": -0.011140369426296851
+      },
+      {
+        "feature": "on",
+        "weight": -0.009476565375148021
+      },
+      {
+        "feature": "floor",
+        "weight": -0.00867926028801075
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T19:48:00.093444: classified as critical. Key contributing phrases: slipped, and, wet, on, floor."
+  },
+  {
+    "id": "97ce2bef-4cc0-46a4-ade7-034cfdd51dfc",
+    "timestamp": "2025-11-20T02:44:00.093444",
+    "location": "Rooftop",
+    "description": "Ladder slipped during maintenance task; water on floor from leaking pipe; witnessed by multiple coworkers",
+    "witness_count": 3,
+    "injured": true,
+    "predicted_severity": "critical",
+    "predicted_proba": {
+      "critical": 0.5361997307266612,
+      "major": 0.08438945903828281,
+      "minor": 0.3794108102350562
+    },
+    "explanation": [
+      {
+        "feature": "slipped",
+        "weight": -0.01145286893116062
+      },
+      {
+        "feature": "task",
+        "weight": -0.009345981788484883
+      },
+      {
+        "feature": "pipe",
+        "weight": 0.008271201462926708
+      },
+      {
+        "feature": "maintenance",
+        "weight": -0.008138342158978566
+      },
+      {
+        "feature": "witnessed",
+        "weight": 0.006469417099966755
+      }
+    ],
+    "summary": "Incident at Rooftop on 2025-11-20T02:44:00.093444: classified as critical. Key contributing phrases: slipped, task, pipe, maintenance, witnessed."
+  }
+]
