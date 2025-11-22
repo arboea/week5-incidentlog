@@ -2,4 +2,5 @@ In the event of an AI failure, it is leadership's responsibility to ensure that 
 
 If not directly involved in the correction, they should maintain full awareness of the work being done. 
 
-Leadership ultimately must take accountability for the performance of the business and any corrections that are needed to get the business operating as expected. 
+Leadership ultimately must take accountability for the performance of the business and any corrections that are needed to get the business operating as expected. As part of being a leader, their should be a culture of accountability throughout all levels of the organization. Everyone should feel the need to be accountable to the work they contribute to the business. While issues may be isolated to specific functions, fostering a culture of accountability and teamwork will lead to people wanting to help even if outside their core responsibility. 
+
